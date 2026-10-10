@@ -1,3 +1,4 @@
+// mic-live by ventres1990 - 2026
 import React from "react";
 import ReactDOM from "react-dom";
 import { EventDispatcher } from "peer-data";
